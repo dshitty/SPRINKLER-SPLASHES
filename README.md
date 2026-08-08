@@ -19,6 +19,7 @@ I don't even know what I'm doing - Created using [LeetHub v2](https://github.com
 | [0283-move-zeroes](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -29,6 +30,7 @@ I don't even know what I'm doing - Created using [LeetHub v2](https://github.com
 | [0189-rotate-array](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,4 +58,8 @@ I don't even know what I'm doing - Created using [LeetHub v2](https://github.com
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0832-flipping-an-image) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
