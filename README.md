@@ -17,6 +17,7 @@ I don't even know what I'm doing - Created using [LeetHub v2](https://github.com
 | [0118-pascals-triangle](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0867-transpose-matrix) |
 | [1470-shuffle-the-array](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -39,10 +40,12 @@ I don't even know what I'm doing - Created using [LeetHub v2](https://github.com
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
