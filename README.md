@@ -13,6 +13,7 @@ I don't even know what I'm doing - Created using [LeetHub v2](https://github.com
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0283-move-zeroes) |
@@ -32,6 +33,7 @@ I don't even know what I'm doing - Created using [LeetHub v2](https://github.com
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/dshitty/SPRINKLER-SPLASHES/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
